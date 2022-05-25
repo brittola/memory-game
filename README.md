@@ -11,7 +11,7 @@ HTML, CSS & Javascript
 ### What I created on this project 💡
 - A way to randomize cards
 - Game logic
-- Responsive CSS (board and cards previously worked well only on desktop)
+- Responsive CSS (board and cards previously fit only on desktop)
 - Plays count
 - Top Score saved in localStorage
 
