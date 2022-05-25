@@ -4,16 +4,18 @@ Memory game with animated flip cards and localStorage to save the top score
 ## Made with 💻
 HTML, CSS & Javascript
 
-❗Cards animation and board were created by ProgramadorBR ❗
+### ❗Cards animation and board were created by ProgramadorBR ❗
 
-##What I created on this project 💡
+-------------------------------------------------------
+
+### What I created on this project 💡
 - A way to randomize cards
 - Game logic
 - Responsive CSS (board and cards previously worked well only on desktop)
 - Plays count
 - Top Score saved in localStorage
 
-##What I learned with this project 🧠
+### What I learned with this project 🧠
 - CSS backface-visibility
 - Preserve3D in CSS transition
 - flatMap() method
