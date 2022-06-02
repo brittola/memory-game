@@ -115,7 +115,7 @@ function flipCard() {
     if (clickedCards.length == 2) {
         if(clickedCards[0] == clickedCards[1]){ //se a mesma carta for selecionada, remove o segundo elemento do array e retorna
             clickedCards.pop();
-            count--;
+            count--; //retira uma contagem da jogada, já que a mesma carta foi clicada
         }else{
             checkPair(clickedCards); //caso sejam duas cartas diferentes, checa par
             clickedCards = []; //reseta as cartas clicadas
